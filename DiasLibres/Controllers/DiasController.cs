@@ -25,6 +25,7 @@ namespace DiasLibres.API.Controllers
             _logger = logger;
         }
 
+
         [HttpGet("hoy")]
         [ProducesResponseType(typeof(DiaResponseDto), StatusCodes.Status200OK)]
         public async Task<ActionResult<DiaResponseDto>> VerificarHoy()
