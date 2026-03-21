@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DiasLibres.Application/DiasLibres.Application.csproj" Id="b5548035-012a-465a-b983-faf220676aff" />
+  <Project Path="DiasLibres.Domain/DiasLibres.Domain.csproj" Id="c1ef004e-a59d-40ee-a5a1-1f7e576099f0" />
+  <Project Path="DiasLibres.Infrastructure/DiasLibres.Infrastructure.csproj" Id="0ade88ef-2059-4311-9e1d-a58e7d291c86" />
+  <Project Path="DiasLibres/DiasLibres.csproj" Id="b1d585d8-8422-4c5c-9c1a-688e506fb1e6" />
+</Solution>

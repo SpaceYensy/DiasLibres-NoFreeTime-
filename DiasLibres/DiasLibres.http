@@ -1,0 +1,3 @@
+@Host = https://localhost:5135
+
+GET {{Host}}/api/dias/hoy
